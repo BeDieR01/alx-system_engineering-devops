@@ -1,2 +1,7 @@
 #!/bin/bash
-ls
+
+# This script will include wildcards
+
+find . dir1
+echo The contents of dir1 are:$find
+echo
