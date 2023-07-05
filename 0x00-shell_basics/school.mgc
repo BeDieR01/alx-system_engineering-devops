@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -name '*[[SCHOOL]]*'
+find . -name '*SCHOOL*'
