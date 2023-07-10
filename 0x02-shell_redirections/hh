@@ -1,0 +1,19 @@
+drwxr-xr-x 2 root root  29 Jul 10 11:14 try
+drwxr-xr-x 3 root root 287 Jul 10 11:24 .
+drwxr-xr-x 6 root root 121 Jul 10 11:14 ..
+-rw-r--r-- 1 root root   0 Jul 10 11:24 hh
+-rw-r--r-- 1 root root  39 Jul 10 11:14 l
+-rw-r--r-- 1 root root   6 Jul 10 11:14 README.md
+-rwxr--r-- 1 root root  99 Jul 10 11:17 7-file
+-rwxr-xr-x 1 root root  28 Jul 10 11:14 1-confused_smiley
+-rwxr-xr-x 1 root root  28 Jul 10 11:14 2-hellofile
+-rwxr-xr-x 1 root root  29 Jul 10 11:14 4-lastlines
+-rwxr-xr-x 1 root root  29 Jul 10 11:14 5-firstlines
+-rwxr-xr-x 1 root root  32 Jul 10 11:14 0-hello_world
+-rwxr-xr-x 1 root root  36 Jul 10 11:14 8-cwd_state
+-rwxr-xr-x 1 root root  38 Jul 10 11:14 6-third_line
+-rwxr-xr-x 1 root root  39 Jul 10 11:14 3-twofiles
+-rwxr-xr-x 1 root root  41 Jul 10 11:14 9-duplicate_last_line
+-rwxr-xr-x 1 root root  48 Jul 10 11:20 10-no_more_js
+-rwxr-xr-x 1 root root  57 Jul 10 11:14 p
+total 56
